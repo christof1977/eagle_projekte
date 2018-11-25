@@ -351,13 +351,15 @@ UsedLibraryUrn="urn:adsk.eagle:library:175"
 UsedLibraryUrn="urn:adsk.eagle:library:176"
 UsedLibraryUrn="urn:adsk.eagle:library:177"
 UsedLibrary="/Users/sld/Documents/eagle/lbr/ESP8266-Eagle_Library/esp8266modules.lbr"
+UsedLibrary="/Users/sld/Documents/eagle/lbr/slqlib.lbr"
+UsedLibrary="/Users/sld/Documents/eagle/lbr/meder.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="122 23 1561 922"
+Loc="145 132 1344 771"
 State=2
 Number=0
 
 [Desktop]
-Screen="4000 1440"
+Screen="1440 900"
 Window="Win_1"
