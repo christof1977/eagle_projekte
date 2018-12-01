@@ -1,0 +1,46 @@
+Stückliste exportiert aus /Volumes/christof's home/eagle/mz/source_selector_v3/source_selector_v3.sch am 21.12.17 21:02
+
+Part Value           Device          Package Description                  MF MPN OC_FARNELL OC_NEWARK
+C1   10n             C-EUC0603       C0603   CAPACITOR, European symbol                              
+C2   100n            C-EUC0603       C0603   CAPACITOR, European symbol                              
+C4   100n            C-EUC0603       C0603   CAPACITOR, European symbol                              
+C5   100n            C-EUC0603       C0603   CAPACITOR, European symbol                              
+C6   100n            C-EUC0603       C0603   CAPACITOR, European symbol                              
+C7   100n            C-EUC0603       C0603   CAPACITOR, European symbol                              
+C8   100n            C-EUC0603       C0603   CAPACITOR, European symbol                              
+PAD1 WIREPADSMD5-2,5 WIREPADSMD5-2,5 5-2,5   Wire PAD connect wire on PCB                            
+PAD2 WIREPADSMD5-2,5 WIREPADSMD5-2,5 5-2,5   Wire PAD connect wire on PCB                            
+PAD3 WIREPADSMD5-2,5 WIREPADSMD5-2,5 5-2,5   Wire PAD connect wire on PCB                            
+PAD4 WIREPADSMD5-2,5 WIREPADSMD5-2,5 5-2,5   Wire PAD connect wire on PCB                            
+PAD5 WIREPADSMD5-2,5 WIREPADSMD5-2,5 5-2,5   Wire PAD connect wire on PCB                            
+PAD6 WIREPADSMD5-2,5 WIREPADSMD5-2,5 5-2,5   Wire PAD connect wire on PCB                            
+Q1   BC847CSMD       BC847CSMD       SOT23   NPN Transistor                                          
+Q2   BC847CSMD       BC847CSMD       SOT23   NPN Transistor                                          
+Q3   BC847CSMD       BC847CSMD       SOT23   NPN Transistor                                          
+Q4   BC847CSMD       BC847CSMD       SOT23   NPN Transistor                                          
+Q5   BC847CSMD       BC847CSMD       SOT23   NPN Transistor                                          
+R1   1M              R-EU_R0603      R0603   RESISTOR, European symbol                               
+R2   1M              R-EU_R0603      R0603   RESISTOR, European symbol                               
+R3   10k             R-EU_R0603      R0603   RESISTOR, European symbol                               
+R7   10k             R-EU_R0603      R0603   RESISTOR, European symbol                               
+R10  1M              R-EU_R0603      R0603   RESISTOR, European symbol                               
+R11  10k             R-EU_R0603      R0603   RESISTOR, European symbol                               
+R14  1M              R-EU_R0603      R0603   RESISTOR, European symbol                               
+R15  10k             R-EU_R0603      R0603   RESISTOR, European symbol                               
+R18  1M              R-EU_R0603      R0603   RESISTOR, European symbol                               
+R19  10k             R-EU_R0603      R0603   RESISTOR, European symbol                               
+R33  2k2             R-EU_R0603      R0603   RESISTOR, European symbol                               
+R34  2k2             R-EU_R0603      R0603   RESISTOR, European symbol                               
+R35  2k2             R-EU_R0603      R0603   RESISTOR, European symbol                               
+R36  2k2             R-EU_R0603      R0603   RESISTOR, European symbol                               
+R37  2k2             R-EU_R0603      R0603   RESISTOR, European symbol                               
+SV1                  MA03-1          MA03-1  PIN HEADER                          unknown    unknown  
+SV2                  MA03-1          MA03-1  PIN HEADER                          unknown    unknown  
+SV3                  MA08-2W         MA08-2W PIN HEADER                          unknown    unknown  
+SV4                  MA08-2W         MA08-2W PIN HEADER                          unknown    unknown  
+SV10                 MA08-2W         MA08-2W PIN HEADER                          unknown    unknown  
+U1   DIP7212-D5V     DIP7212-D5V     DP-07   Meder DIP 7212-D 5V                                     
+U2   DIP7212-D5V     DIP7212-D5V     DP-07   Meder DIP 7212-D 5V                                     
+U3   DIP7212-D5V     DIP7212-D5V     DP-07   Meder DIP 7212-D 5V                                     
+U4   DIP7212-D5V     DIP7212-D5V     DP-07   Meder DIP 7212-D 5V                                     
+U5   DIP7212-D5V     DIP7212-D5V     DP-07   Meder DIP 7212-D 5V                                     

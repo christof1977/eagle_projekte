@@ -1,0 +1,61 @@
+Stückliste exportiert aus /Volumes/christof's home/eagle/mz/volume_board_v3/volume_board_v3.sch am 21.12.17 21:03
+
+Part Value   Device             Package       Description                          MF MPN OC_FARNELL OC_NEWARK
+C1   1n      C-EUC0603          C0603         CAPACITOR, European symbol                                      
+C2   10n     C-EUC0603          C0603         CAPACITOR, European symbol                                      
+C3   10u     CPOL-EU153CLV-0405 153CLV-0405   POLARIZED CAPACITOR, European symbol                            
+C4   1n      C-EUC0603          C0603         CAPACITOR, European symbol                                      
+C5   1n      C-EUC0603          C0603         CAPACITOR, European symbol                                      
+C6   10n     C-EUC0603          C0603         CAPACITOR, European symbol                                      
+C7   22u     CPOL-EU153CLV-0405 153CLV-0405   POLARIZED CAPACITOR, European symbol                            
+C8   100u    CPOL-EU153CLV-0605 153CLV-0605   POLARIZED CAPACITOR, European symbol                            
+C9   10u     C5/7.2/11          C5B7.2_11     CAPACITOR                                                       
+C10  10u     C5/7.2/11          C5B7.2_11     CAPACITOR                                                       
+C11  10u     C5/7.2/11          C5B7.2_11     CAPACITOR                                                       
+C12  10u     C5/7.2/11          C5B7.2_11     CAPACITOR                                                       
+C13  100n    C-EUC0603          C0603         CAPACITOR, European symbol                                      
+C14  100n    C-EUC0603          C0603         CAPACITOR, European symbol                                      
+C15  100n    C-EUC0603          C0603         CAPACITOR, European symbol                                      
+C16  100u    CPOL-EU153CLV-0605 153CLV-0605   POLARIZED CAPACITOR, European symbol                            
+C17  22u     CPOL-EU153CLV-0405 153CLV-0405   POLARIZED CAPACITOR, European symbol                            
+C18  1n      C-EUC0603          C0603         CAPACITOR, European symbol                                      
+C19  10n     C-EUC0603          C0603         CAPACITOR, European symbol                                      
+C20  10u     CPOL-EU153CLV-0405 153CLV-0405   POLARIZED CAPACITOR, European symbol                            
+C21  10u     CPOL-EU153CLV-0405 153CLV-0405   POLARIZED CAPACITOR, European symbol                            
+C22  10u     CPOL-EU153CLV-0405 153CLV-0405   POLARIZED CAPACITOR, European symbol                            
+C23  10n     C-EUC0603          C0603         CAPACITOR, European symbol                                      
+C24  10u     CPOL-EU153CLV-0405 153CLV-0405   POLARIZED CAPACITOR, European symbol                            
+C25  10u     CPOL-EU153CLV-0405 153CLV-0405   POLARIZED CAPACITOR, European symbol                            
+IC1  NE5532D NE5532D            SO08          AUDIO AMPLIFIER                                                 
+IC2  NE5532D NE5532D            SO08          AUDIO AMPLIFIER                                                 
+IC4  DS1882  DS1882             SO16                                                                          
+R1   10R     R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R2   10R     R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R3   10R     R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R4   1M      R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R5   10R     R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R8   0R      R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R12  1M      R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R16  1M      R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R20  0R      R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R24  1M      R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R28  0R      R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R38  1M      R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R39  0R      R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R40  1M      R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R41  1k      R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R42  1k      R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R43  1k      R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R45  1k      R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R46  1k      R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R47  1k8     R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R48  1k      R-EU_R0603         R0603         RESISTOR, European symbol                                       
+R49  1k8     R-EU_R0603         R0603         RESISTOR, European symbol                                       
+SV1          MA08-2             MA08-2        PIN HEADER                                  unknown    unknown  
+SV2          MA08-2             MA08-2        PIN HEADER                                  unknown    unknown  
+SV3          MA08-2             MA08-2        PIN HEADER                                  unknown    unknown  
+SV4          MA08-2B            MA08-2_BORDER PIN HEADER                                                      
+SV6          MA08-2             MA08-2        PIN HEADER                                  unknown    unknown  
+SV9          MA04-2             MA04-2        PIN HEADER                                  unknown    unknown  
+SV10         MA04-2             MA04-2        PIN HEADER                                  unknown    unknown  
+X1           W237-3E            W237-3E       WAGO SREW CLAMP                             unknown    unknown  

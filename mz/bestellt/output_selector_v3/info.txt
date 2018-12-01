@@ -1,0 +1,8 @@
+output_selector_v3.TXT: Excellon Drill File
+output_selector_v3.GML: Mechanical Layer
+output_selector_v3.GBS: Solder Stop Mask Bottom
+output_selector_v3.GTS: Solder Stop Mask Top
+output_selector_v3.GBO: Silk Screen Bottom
+output_selector_v3.GTO: Silk Screen Top
+output_selector_v3.GBL: Bottom Layer
+output_selector_v3.GTL: Top Layer

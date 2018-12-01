@@ -1,0 +1,8 @@
+volume_board_v3.TXT: Excellon Drill File
+volume_board_v3.GML: Mechanical Layer
+volume_board_v3.GBS: Solder Stop Mask Bottom
+volume_board_v3.GTS: Solder Stop Mask Top
+volume_board_v3.GBO: Silk Screen Bottom
+volume_board_v3.GTO: Silk Screen Top
+volume_board_v3.GBL: Bottom Layer
+volume_board_v3.GTL: Top Layer
